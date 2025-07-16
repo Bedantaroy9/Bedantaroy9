@@ -5,7 +5,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bedantaroy9&theme=tokyonight" alt="GitHub Streak" />
@@ -21,7 +21,7 @@
 
 ---
 
-### 📌 Highlights
+###  Highlights
 
 - 🛠️ Currently working on: `Next Word Prediction`, `Text Summarizer`, and `Langchain`.
 - 📚 Exploring: Deep Learning, HuggingFace Models, LangChain.
@@ -29,13 +29,15 @@
 
 ---
 
-### 🧠 Fun Fact
+### Fun Fact
 
 > "I love turning ideas into reality through code and learning new tech every day!" 💡
 
 ### 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Bedantaroy9&theme=algolia&title=MultiLanguage,PullRequest,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Bedantaroy9&theme=algolia&title=Commit,Repositories,Multilanguage)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
