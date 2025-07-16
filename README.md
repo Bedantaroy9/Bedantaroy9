@@ -33,6 +33,14 @@
 
 > "I love turning ideas into reality through code and learning new tech every day!" 💡
 
+### 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Bedantaroy9&theme=algolia&title=MultiLanguage,PullRequest,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 
 <!--
 **Bedantaroy9/Bedantaroy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
